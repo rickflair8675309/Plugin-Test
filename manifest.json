@@ -1,0 +1,8 @@
+{
+    "name": "MessageLogger",
+    "description": "Logs deleted and edited messages.",
+    "author": "rickflair8675309",
+    "version": "1.0.0",
+    "main": "MessageLogger.js"
+  }
+  
